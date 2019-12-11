@@ -6,6 +6,8 @@ class Home extends React.Component {
         return (
             <div>
                 <br/>
+                <br/>
+                <br/>
                 <WeddingList/>
             </div>
         );
